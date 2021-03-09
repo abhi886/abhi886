@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**abhi886/abhi886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Abhishekh 👋
+Ambitious Software Developer with a strong background that encompasses diverse aspects of Software Engineering. A consistently high level performer of jobs that require analytical and inter personal skills. Seeking to heighten my experience towards becoming a Full Stack Software Engineer.
+- 🌱 I’m currently learning and my current set of toolbox
+Reactjs, Node.js, Express, MongoDB, MySQL, HTML5 & CSS3, Javascript, Docker, Babel, Git, Github, npm, postman, Visual Studio Code
+I have also worked using the following set of tool box
+Php, Code Ignitor, Laravel, Wordpress, woocoommerce, jquery, XAMPP, CPanel.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Facebook
+Twitter
+Linkedin
+Personal Site
