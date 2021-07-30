@@ -1,18 +1,18 @@
 ### Hi there 👋
 I'm Abhishekh,
-I'm a Software Developer with a strong background that encompasses diverse aspects of Software Engineering. I'm Seeking to heighten my experience towards becoming a Full Stack Software Engineer.
+I'm a Software Engineer with a strong background that encompasses diverse aspects of Software Engineering. I'm Seeking to heighten my experience towards becoming a Full Stack Software Engineer.
 
 🌱 My current set of toolbox:
-- Node.js, Express.js, MongoDB, React.js, npm, MySQL, HTML5 & CSS3, Docker, Babel, Git, Github, postman, Docker, Visual Studio Code
+- Node.js, Express.js, MongoDB, React.js, npm, MySQL, HTML5 & CSS3, Docker, Babel, Git, Github, postman, Visual Studio Code, Heroku
 
 🌱 My future plans in learning:
-- React Native, GatsbyJS, GraphQL, AWS Lambda, AWS Amplify, Google Cloud Platform, Kubernetes, Webpack
+- Next.js, React Native, GatsbyJS, GraphQL, AWS Lambda, AWS Amplify, Google Cloud Platform, Kubernetes, Webpack
 
 🌱 I have also worked using the following set of tool box
-- Php, Code Ignitor, Laravel, Wordpress, Woocoommerce, jquery, XAMPP, CPanel, Sublime Text Edidor
+- Php, Code Ignitor, Laravel, Wordpress, Woocoommerce, jquery, XAMPP, CPanel, Sublime Text Editor
 
 📫 How to reach me: ...
 - Facebook
 - Twitter
 - Linkedin
-- Personal Site
+- Personal Site (https://personalsite-abhishekh.herokuapp.com/)
