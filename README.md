@@ -9,7 +9,7 @@ I'm a Software Engineer with a strong background that encompasses diverse aspect
 - GatsbyJS, React Native, GraphQL, AWS Lambda, AWS Amplify, Google Cloud Platform, Kubernetes, Webpack
 
 🌱 I have also worked using the following set of tool box
-- Php, Code Ignitor, Laravel, Wordpress, Woocoommerce, jquery, XAMPP, CPanel, Sublime Text Editor
+- jquery, Php, Code Ignitor, Laravel, Wordpress, Woocoommerce, XAMPP, CPanel, Sublime Text Editor
 
 📫 How to reach me: ...
 - Facebook
